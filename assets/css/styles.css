@@ -1,0 +1,40 @@
+body {
+  margin: 20px;
+  min-height: 100vh;
+  font-family: "Times New Roman", Times, serif;
+  border: 2px red;
+  background-color: rgb(164, 201, 164);
+}
+
+.nav-container {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  border: green;
+  text-align: end;
+  background-color: rgb(241, 204, 223);
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 22px;
+  margin: 0px;
+  line-height: 35px;
+}
+
+.nav-item {
+  border: 1px seagreen;
+}
+
+.image-container {
+  width: 350px;
+  height: 400px;
+  flex-wrap: wrap;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.section-container {
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: row;
+  justify-content: space-between;
+}
