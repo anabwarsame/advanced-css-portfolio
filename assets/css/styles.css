@@ -54,6 +54,7 @@ body {
 
 .nav-links {
   border: solid green;
+  background-color: rgb(241, 204, 223);
 }
 .nav-links a:hover {
   color: green;
