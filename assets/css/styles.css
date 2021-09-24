@@ -2,7 +2,6 @@ body {
   margin: 20px;
   min-height: 100vh;
   font-family: "Times New Roman", Times, serif;
-  border: 2px red;
   background-color: rgb(164, 201, 164);
 }
 
@@ -11,7 +10,7 @@ body {
   flex-direction: row;
   flex-wrap: wrap;
   justify-content: space-between;
-  border: green;
+  border: solid green;
   text-align: end;
   background-color: rgb(241, 204, 223);
   font-family: Verdana, Geneva, Tahoma, sans-serif;
@@ -19,9 +18,8 @@ body {
   margin: 0px;
   line-height: 35px;
 }
-
-.nav-item {
-  border: 1px seagreen;
+.nav-container a:hover {
+  color: green;
 }
 
 .image-container {
@@ -35,6 +33,20 @@ body {
 .section-container {
   display: flex;
   flex-wrap: wrap;
-  flex-direction: row;
+  flex-direction: column;
   justify-content: space-between;
+  align-items: center;
+}
+
+.p-container {
+  border: solid green;
+  color: aliceblue;
+  background-color: green;
+}
+
+.nav-links {
+  border: solid green;
+}
+.nav-links a:hover {
+  color: green;
 }
