@@ -44,6 +44,13 @@ body {
   background-color: green;
 }
 
+.skills-list {
+  border: green;
+  color: green;
+  font-size: 5pxx;
+  font-weight: 100px;
+}
+
 .nav-links {
   border: solid green;
 }
