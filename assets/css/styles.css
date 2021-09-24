@@ -28,6 +28,7 @@ body {
   flex-wrap: wrap;
   flex-direction: row;
   justify-content: space-between;
+  border: solid rgb(241, 204, 223) 10px;
 }
 
 .section-container {
@@ -40,8 +41,8 @@ body {
 
 .p-container {
   border: solid green;
-  color: aliceblue;
-  background-color: green;
+  color: green;
+  background-color: rgb(241, 204, 223);
 }
 
 .skills-list {
