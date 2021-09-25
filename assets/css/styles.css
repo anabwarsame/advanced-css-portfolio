@@ -59,3 +59,16 @@ body {
 .nav-links a:hover {
   color: green;
 }
+
+.cr-title {
+  color: green;
+}
+
+.cr-image-pic {
+}
+
+@media screen and (max-width; 576px) {
+  .nav-container {
+    flex-direction: column;
+  }
+}
