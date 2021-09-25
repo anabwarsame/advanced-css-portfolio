@@ -55,19 +55,39 @@ body {
 .nav-links {
   border: solid green;
   background-color: rgb(241, 204, 223);
+  margin-bottom: 2rem;
 }
 .nav-links a:hover {
   color: green;
 }
 
 .cr-title {
-  color: green;
+  color:rgb(241, 204, 223);
+  font-size: 5rem;
+  position: absolute;
+  top: 50;
+  background-color: rgb(241, 204, 223);
+}
+
+.cr-title h2:hover {
+  color: hotpink;
+
+}
+
+
+.cr-image {
+height: 600px;
+width: 1400px;
+
 }
 
 .banner {
   background-image: url("../images/placeholderimg.jpg");
-  height; 200px
+  height;250px;
+  width: 100px;
+  margin: 0;
   background-size: cover; 
+  position: relative;
 }
 
 @media screen and (max-width; 576px) {
