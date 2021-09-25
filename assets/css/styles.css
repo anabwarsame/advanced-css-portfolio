@@ -64,7 +64,10 @@ body {
   color: green;
 }
 
-.cr-image-pic {
+.banner {
+  background-image: url("../images/placeholderimg.jpg");
+  height; 200px
+  background-size: cover; 
 }
 
 @media screen and (max-width; 576px) {
