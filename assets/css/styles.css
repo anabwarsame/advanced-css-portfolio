@@ -71,4 +71,8 @@ body {
   .nav-container {
     flex-direction: column;
   }
+  .nav-links {
+    flex-direction: column;
+    align-items: center;
+  }
 }
