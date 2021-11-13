@@ -32,6 +32,7 @@ body {
 }
 
 .section-container {
+  color: green;
   display: flex;
   flex-wrap: wrap;
   flex-direction: column;
