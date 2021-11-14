@@ -94,6 +94,7 @@ body {
   flex-direction: row;
   flex-wrap: wrap;
   justify-content: center;
+  margin-top: 25rem;
 }
 
 .placeholder-card {
