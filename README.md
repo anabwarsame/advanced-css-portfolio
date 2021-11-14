@@ -1,6 +1,7 @@
 # advanced-css-portfolio
 
 You can view Github pages deployed here; https://github.com/anabwarsame
+
 You can also view my Developer CV here; https://docs.google.com/document/d/1H433gw1POhomuSTp3v2zyFvx68T0mQBE3mBqM40pza0/edit
 
 ## Description
@@ -9,12 +10,12 @@ This profile is an insight into my developer journey from beginning
 to present. Follow me through my journey to becoming one of the
 greatest developers you have ever set your eyes on.
 
-### work done
+### Work Done
 
 - completed html layout for the body of my webpage
-- including a title
+- styled page using CSS
 - link to sections including projects and contact me
-- project card including a project title that is linked to my github profile
+- project card including a project title that is linked to my github profile projects
 
 ### Professional Portfolio Screenshots
 
